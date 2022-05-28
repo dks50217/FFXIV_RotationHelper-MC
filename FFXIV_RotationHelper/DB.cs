@@ -53,7 +53,7 @@ namespace FFXIV_RotationHelper
 
             string csvPath = "ActionTable.csv";
 #if DEBUG
-            csvPath = "System.AppContext.BaseDirectory\Data\ActionTable.csv";
+            csvPath = $@"{System.AppContext.BaseDirectory}\Data\ActionTable.csv";
 #endif
 
             using (StreamReader streamReader = new StreamReader(File.OpenRead(@"C:\Users\User\Desktop\FFXIV_Rot\ActionTable.csv")))
