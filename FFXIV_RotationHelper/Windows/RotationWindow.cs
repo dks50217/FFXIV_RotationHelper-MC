@@ -171,6 +171,11 @@ namespace FFXIV_RotationHelper
             }
         }
 
+        Dictionary<Tuple<string, int>, int> _skillMap = new Dictionary<Tuple<string, int>, int>()
+        {
+            { new Tuple<string, int>("Bard", 4707), 113 }
+        };
+
         public void OnActionCasted(LogData logData)
         {
             if (currentIdx >= skillList.Count)
@@ -179,7 +184,12 @@ namespace FFXIV_RotationHelper
             }
 
             SkillData skillData = skillList[currentIdx];
-            if (DB.IsSameAction(loadedData.Class, logData.GameIdx, skillData.DBIdx))
+
+            this.skillLabel.Text = $"{loadedData.Class};{(int)logData.GameIdx};{(int)skillData.DBIdx}";
+
+            var isSame = DB.IsSameAction(loadedData.Class, logData.GameIdx, skillData.DBIdx);
+
+            if (isSame)
             {
                 ++currentIdx;
                 if (currentIdx >= skillList.Count)
@@ -198,6 +208,8 @@ namespace FFXIV_RotationHelper
                 Reposition();
             }
         }
+
+        
 
         public void Reset()
         {

@@ -50,9 +50,13 @@ namespace FFXIV_RotationHelper
 
         private static async Task LoadAdjustTable()
         {
-            HttpWebRequest request = WebRequest.Create("https://raw.githubusercontent.com/Elysia-ff/FFXIV_RotationHelper-resources/master/Output/ActionTable.csv") as HttpWebRequest;
-            using (HttpWebResponse response = await Task.Factory.FromAsync(request.BeginGetResponse, request.EndGetResponse, null) as HttpWebResponse)
-            using (StreamReader streamReader = new StreamReader(response.GetResponseStream()))
+
+            string csvPath = "ActionTable.csv";
+#if DEBUG
+            csvPath = "System.AppContext.BaseDirectory\Data\ActionTable.csv";
+#endif
+
+            using (StreamReader streamReader = new StreamReader(File.OpenRead(@"C:\Users\User\Desktop\FFXIV_Rot\ActionTable.csv")))
             {
                 string content = await streamReader.ReadToEndAsync();
 
@@ -202,6 +206,7 @@ namespace FFXIV_RotationHelper
 
             return false;
         }
+
 
         public static bool IsIgnoreSet(DBIdx dBIdx)
         {

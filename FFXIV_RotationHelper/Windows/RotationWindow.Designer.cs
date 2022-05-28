@@ -28,18 +28,30 @@
         /// </summary>
         private void InitializeComponent()
         {
+            this.skillLabel = new System.Windows.Forms.Label();
             this.SuspendLayout();
+            // 
+            // skillLabel
+            // 
+            this.skillLabel.AutoSize = true;
+            this.skillLabel.BackColor = System.Drawing.Color.LightYellow;
+            this.skillLabel.Location = new System.Drawing.Point(634, 4);
+            this.skillLabel.Name = "skillLabel";
+            this.skillLabel.Size = new System.Drawing.Size(33, 12);
+            this.skillLabel.TabIndex = 0;
+            this.skillLabel.Text = "label1";
             // 
             // RotationWindow
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 12F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 12F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.Lime;
-            this.ClientSize = new System.Drawing.Size(800, 40);
+            this.ClientSize = new System.Drawing.Size(690, 57);
             this.ControlBox = false;
+            this.Controls.Add(this.skillLabel);
             this.DoubleBuffered = true;
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
-            this.MinimumSize = new System.Drawing.Size(40, 40);
+            this.MinimumSize = new System.Drawing.Size(34, 40);
             this.Name = "RotationWindow";
             this.ShowIcon = false;
             this.ShowInTaskbar = false;
@@ -49,9 +61,12 @@
             this.TransparencyKey = System.Drawing.Color.Lime;
             this.SizeChanged += new System.EventHandler(this.RotationWindow_SizeChanged);
             this.ResumeLayout(false);
+            this.PerformLayout();
 
         }
 
         #endregion
+
+        private System.Windows.Forms.Label skillLabel;
     }
 }

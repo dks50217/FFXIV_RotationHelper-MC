@@ -1,0 +1,842 @@
+ClassName,ActionName,GameIdx,DBIdx
+Paladin,Fast Blade,9,9
+Paladin,Riot Blade,15,15
+Paladin,Shield Bash,16,16
+Paladin,Sentinel,17,17
+Paladin,Fight or Flight,20,20
+Paladin,Rage of Halone,21,21
+Paladin,Circle of Scorn,23,23
+Paladin,Shield Lob,24,24
+Paladin,Cover,27,27
+Paladin,Iron Will,28,2
+Paladin,Spirits Within,29,29
+Paladin,Hallowed Ground,30,30
+Paladin,Goring Blade,3538,3538
+Paladin,Royal Authority,3539,3539
+Paladin,Divine Veil,3540,3540
+Paladin,Clemency,3541,3541
+Paladin,Sheltron,3542,3542
+Paladin,Total Eclipse,7381,12002
+Paladin,Intervention,7382,12003
+Paladin,Requiescat,7383,12005
+Paladin,Holy Spirit,7384,12004
+Paladin,Passage of Arms,7385,12006
+Paladin,Rampart,7531,10
+Paladin,Provoke,7533,18
+Paladin,Reprisal,7535,3626
+Paladin,Shirk,7537,12128
+Paladin,Interject,7538,12126
+Paladin,Low Blow,7540,3622
+Paladin,Arm's Length,7548,12133
+Paladin,Prominence,16457,3
+Paladin,Holy Circle,16458,4
+Paladin,Confiteor,16459,7
+Paladin,Atonement,16460,6
+Paladin,Intervene,16461,5
+Paladin,Holy Sheltron,25746,740
+Paladin,Expiacion,25747,741
+Paladin,Blade of Faith,25748,742
+Paladin,Blade of Truth,25749,743
+Paladin,Blade of Valor,25750,744
+Warrior,Heavy Swing,31,31
+Warrior,Maim,37,37
+Warrior,Berserk,38,38
+Warrior,Thrill of Battle,40,40
+Warrior,Overpower,41,41
+Warrior,Storm's Path,42,42
+Warrior,Holmgang,43,43
+Warrior,Vengeance,44,44
+Warrior,Storm's Eye,45,45
+Warrior,Tomahawk,46,46
+Warrior,Defiance,48,48
+Warrior,Inner Beast,49,49
+Warrior,Steel Cyclone,51,51
+Warrior,Infuriate,52,52
+Warrior,Fell Cleave,3549,3549
+Warrior,Decimate,3550,3550
+Warrior,Raw Intuition,3551,3551
+Warrior,Equilibrium,3552,3552
+Warrior,Onslaught,7386,12007
+Warrior,Upheaval,7387,12008
+Warrior,Shake It Off,7388,12009
+Warrior,Inner Release,7389,12010
+Warrior,Rampart,7531,10
+Warrior,Provoke,7533,18
+Warrior,Reprisal,7535,3626
+Warrior,Shirk,7537,12128
+Warrior,Interject,7538,12126
+Warrior,Low Blow,7540,3622
+Warrior,Arm's Length,7548,12133
+Warrior,Mythril Tempest,16462,195
+Warrior,Chaotic Cyclone,16463,197
+Warrior,Nascent Flash,16464,198
+Warrior,Inner Chaos,16465,199
+Warrior,Bloodwhetting,25751,1028
+Warrior,Orogeny,25752,1029
+Warrior,Primal Rend,25753,1030
+Dark Knight,Hard Slash,3617,3617
+Dark Knight,Unleash,3621,3621
+Dark Knight,Syphon Strike,3623,3623
+Dark Knight,Unmend,3624,3624
+Dark Knight,Blood Weapon,3625,3625
+Dark Knight,Grit,3629,3629
+Dark Knight,Souleater,3632,3632
+Dark Knight,Dark Mind,3634,3634
+Dark Knight,Shadow Wall,3636,3636
+Dark Knight,Living Dead,3638,3638
+Dark Knight,Salted Earth,3639,3639
+Dark Knight,Plunge,3640,3640
+Dark Knight,Abyssal Drain,3641,3641
+Dark Knight,Carve and Spit,3643,3643
+Dark Knight,Delirium,7390,3637
+Dark Knight,Quietus,7391,12011
+Dark Knight,Bloodspiller,7392,12012
+Dark Knight,The Blackest Night,7393,12013
+Dark Knight,Rampart,7531,10
+Dark Knight,Provoke,7533,18
+Dark Knight,Reprisal,7535,3626
+Dark Knight,Shirk,7537,12128
+Dark Knight,Interject,7538,12126
+Dark Knight,Low Blow,7540,3622
+Dark Knight,Arm's Length,7548,12133
+Dark Knight,Flood of Darkness,16466,310
+Dark Knight,Edge of Darkness,16467,311
+Dark Knight,Stalwart Soul,16468,312
+Dark Knight,Flood of Shadow,16469,313
+Dark Knight,Edge of Shadow,16470,314
+Dark Knight,Dark Missionary,16471,315
+Dark Knight,Living Shadow,16472,316
+Dark Knight,Oblation,25754,547
+Dark Knight,Salt and Darkness,25755,548
+Dark Knight,Salt and Darkness,25756,548
+Dark Knight,Shadowbringer,25757,549
+Gunbreaker,Rampart,7531,10
+Gunbreaker,Provoke,7533,18
+Gunbreaker,Reprisal,7535,3626
+Gunbreaker,Shirk,7537,12128
+Gunbreaker,Interject,7538,12126
+Gunbreaker,Low Blow,7540,3622
+Gunbreaker,Arm's Length,7548,12133
+Gunbreaker,Keen Edge,16137,337
+Gunbreaker,No Mercy,16138,338
+Gunbreaker,Brutal Shell,16139,339
+Gunbreaker,Camouflage,16140,340
+Gunbreaker,Demon Slice,16141,341
+Gunbreaker,Royal Guard,16142,342
+Gunbreaker,Lightning Shot,16143,343
+Gunbreaker,Danger Zone,16144,344
+Gunbreaker,Solid Barrel,16145,345
+Gunbreaker,Gnashing Fang,16146,353
+Gunbreaker,Savage Claw,16147,354
+Gunbreaker,Nebula,16148,347
+Gunbreaker,Demon Slaughter,16149,348
+Gunbreaker,Wicked Talon,16150,355
+Gunbreaker,Aurora,16151,349
+Gunbreaker,Superbolide,16152,350
+Gunbreaker,Sonic Break,16153,351
+Gunbreaker,Rough Divide,16154,352
+Gunbreaker,Continuation,16155,359
+Gunbreaker,Jugular Rip,16156,360
+Gunbreaker,Abdomen Tear,16157,361
+Gunbreaker,Eye Gouge,16158,362
+Gunbreaker,Bow Shock,16159,356
+Gunbreaker,Heart of Light,16160,357
+Gunbreaker,Heart of Stone,16161,358
+Gunbreaker,Burst Strike,16162,346
+Gunbreaker,Fated Circle,16163,363
+Gunbreaker,Bloodfest,16164,364
+Gunbreaker,Blasting Zone,16165,365
+Gunbreaker,Heart of Corundum,25758,608
+Gunbreaker,Hypervelocity,25759,609
+Gunbreaker,Double Down,25760,610
+White Mage,Stone,119,119
+White Mage,Cure,120,120
+White Mage,Aero,121,121
+White Mage,Medica,124,124
+White Mage,Raise,125,125
+White Mage,Stone II,127,127
+White Mage,Cure III,131,131
+White Mage,Aero II,132,132
+White Mage,Medica II,133,133
+White Mage,Cure II,135,135
+White Mage,Presence of Mind,136,136
+White Mage,Regen,137,137
+White Mage,Holy,139,139
+White Mage,Benediction,140,140
+White Mage,Stone III,3568,3568
+White Mage,Asylum,3569,3569
+White Mage,Tetragrammaton,3570,3570
+White Mage,Assize,3571,3571
+White Mage,Thin Air,7430,12014
+White Mage,Stone IV,7431,12015
+White Mage,Divine Benison,7432,12016
+White Mage,Plenary Indulgence,7433,12017
+White Mage,Surecast,7559,143
+White Mage,Swiftcast,7561,150
+White Mage,Lucid Dreaming,7562,12130
+White Mage,Esuna,7568,126
+White Mage,Rescue,7571,12132
+White Mage,Afflatus Solace,16531,208
+White Mage,Dia,16532,209
+White Mage,Glare,16533,223
+White Mage,Afflatus Rapture,16534,244
+White Mage,Afflatus Misery,16535,240
+White Mage,Temperance,16536,245
+White Mage,Repose,16560,128
+White Mage,Glare III,25859,1059
+White Mage,Holy III,25860,1060
+White Mage,Aquaveil,25861,1061
+White Mage,Liturgy of the Bell,25862,1062
+Scholar,Aetherflow,166,166
+Scholar,Energy Drain,167,12149
+Scholar,Resurrection,173,173
+Scholar,Adloquium,185,185
+Scholar,Succor,186,186
+Scholar,Sacred Soil,188,188
+Scholar,Lustrate,189,189
+Scholar,Physick,190,190
+Scholar,Embrace,802,0
+Scholar,Whispering Dawn,803,0
+Scholar,Fey Illumination,805,0
+Scholar,Indomitability,3583,3583
+Scholar,Broil,3584,3584
+Scholar,Deployment Tactics,3585,3585
+Scholar,Emergency Tactics,3586,3586
+Scholar,Dissipation,3587,3587
+Scholar,Excogitation,7434,12018
+Scholar,Broil II,7435,12019
+Scholar,Chain Stratagem,7436,12020
+Scholar,Aetherpact,7437,12021
+Scholar,Fey Union,7438,0
+Scholar,Surecast,7559,143
+Scholar,Swiftcast,7561,150
+Scholar,Lucid Dreaming,7562,12130
+Scholar,Esuna,7568,126
+Scholar,Rescue,7571,12132
+Scholar,Dissolve Union,7869,12023
+Scholar,Whispering Dawn,16537,267
+Scholar,Fey Illumination,16538,268
+Scholar,Art of War,16539,269
+Scholar,Biolysis,16540,271
+Scholar,Broil III,16541,272
+Scholar,Recitation,16542,273
+Scholar,Fey Blessing,16543,274
+Scholar,Fey Blessing,16544,0
+Scholar,Summon Seraph,16545,275
+Scholar,Consolation,16546,276
+Scholar,Consolation,16547,0
+Scholar,Seraphic Veil,16548,0
+Scholar,Angel's Whisper,16550,0
+Scholar,Seraphic Illumination,16551,0
+Scholar,Repose,16560,128
+Scholar,Summon Eos,17215,265
+Scholar,Summon Selene,17216,266
+Scholar,Bio,17864,164
+Scholar,Bio II,17865,178
+Scholar,Ruin,17869,163
+Scholar,Ruin II,17870,172
+Scholar,Broil IV,25865,929
+Scholar,Art of War II,25866,930
+Scholar,Protraction,25867,931
+Scholar,Expedient,25868,932
+Astrologian,Draw,3590,3590
+Astrologian,Redraw,3593,3593
+Astrologian,Benefic,3594,3594
+Astrologian,Aspected Benefic,3595,3595
+Astrologian,Malefic,3596,3596
+Astrologian,Malefic II,3598,3598
+Astrologian,Combust,3599,3599
+Astrologian,Helios,3600,3600
+Astrologian,Aspected Helios,3601,3601
+Astrologian,Ascend,3603,3603
+Astrologian,Lightspeed,3606,3606
+Astrologian,Combust II,3608,3608
+Astrologian,Benefic II,3610,3610
+Astrologian,Synastry,3612,3612
+Astrologian,Collective Unconscious,3613,3613
+Astrologian,Essential Dignity,3614,3614
+Astrologian,Gravity,3615,3615
+Astrologian,the Balance,4401,0
+Astrologian,the Arrow,4402,0
+Astrologian,the Spear,4403,0
+Astrologian,the Bole,4404,0
+Astrologian,the Ewer,4405,0
+Astrologian,the Spire,4406,0
+Astrologian,Earthly Star,7439,12025
+Astrologian,Malefic III,7442,12027
+Astrologian,Minor Arcana,7443,12028
+Astrologian,Lord of Crowns,7444,0
+Astrologian,Lady of Crowns,7445,0
+Astrologian,Surecast,7559,143
+Astrologian,Swiftcast,7561,150
+Astrologian,Lucid Dreaming,7562,12130
+Astrologian,Esuna,7568,126
+Astrologian,Rescue,7571,12132
+Astrologian,Stellar Detonation,8324,12026
+Astrologian,Undraw,9629,12024
+Astrologian,Divination,16552,318
+Astrologian,Celestial Opposition,16553,3616
+Astrologian,Combust III,16554,319
+Astrologian,Malefic IV,16555,320
+Astrologian,Celestial Intersection,16556,321
+Astrologian,Horoscope,16557,322
+Astrologian,Horoscope,16558,322
+Astrologian,Neutral Sect,16559,323
+Astrologian,Repose,16560,128
+Astrologian,Play,17055,317
+Astrologian,Crown Play,25869,421
+Astrologian,Astrodyne,25870,413
+Astrologian,Fall Malefic,25871,428
+Astrologian,Gravity II,25872,429
+Astrologian,Exaltation,25873,430
+Astrologian,Macrocosmos,25874,431
+Astrologian,Microcosmos,25875,432
+Sage,Surecast,7559,143
+Sage,Swiftcast,7561,150
+Sage,Lucid Dreaming,7562,12130
+Sage,Esuna,7568,126
+Sage,Rescue,7571,12132
+Sage,Repose,16560,128
+Sage,Dosis,24283,831
+Sage,Diagnosis,24284,832
+Sage,Kardia,24285,833
+Sage,Prognosis,24286,834
+Sage,Egeiro,24287,835
+Sage,Physis,24288,836
+Sage,Phlegma,24289,837
+Sage,Eukrasia,24290,838
+Sage,Eukrasian Diagnosis,24291,839
+Sage,Eukrasian Prognosis,24292,840
+Sage,Eukrasian Dosis,24293,841
+Sage,Soteria,24294,842
+Sage,Icarus,24295,843
+Sage,Druochole,24296,844
+Sage,Dyskrasia,24297,845
+Sage,Kerachole,24298,846
+Sage,Ixochole,24299,847
+Sage,Zoe,24300,848
+Sage,Pepsis,24301,849
+Sage,Physis II,24302,850
+Sage,Taurochole,24303,851
+Sage,Toxikon,24304,852
+Sage,Haima,24305,853
+Sage,Dosis II,24306,854
+Sage,Phlegma II,24307,855
+Sage,Eukrasian Dosis II,24308,856
+Sage,Rhizomata,24309,857
+Sage,Holos,24310,858
+Sage,Panhaima,24311,859
+Sage,Dosis III,24312,860
+Sage,Phlegma III,24313,861
+Sage,Eukrasian Dosis III,24314,862
+Sage,Dyskrasia II,24315,863
+Sage,Toxikon II,24316,864
+Sage,Krasis,24317,865
+Sage,Pneuma,24318,866
+Sage,Kardia,28119,833
+Monk,Bootshine,53,53
+Monk,True Strike,54,54
+Monk,Snap Punch,56,56
+Monk,Twin Snakes,61,61
+Monk,Arm of the Destroyer,62,62
+Monk,Mantra,65,65
+Monk,Demolish,66,66
+Monk,Perfect Balance,69,69
+Monk,Rockbreaker,70,70
+Monk,Dragon Kick,74,74
+Monk,Tornado Kick,3543,3543
+Monk,Elixir Field,3545,3545
+Monk,Meditation,3546,3546
+Monk,the Forbidden Chakra,3547,9000
+Monk,Form Shift,4262,4262
+Monk,Riddle of Earth,7394,12030
+Monk,Riddle of Fire,7395,12035
+Monk,Brotherhood,7396,12036
+Monk,Second Wind,7541,57
+Monk,Bloodbath,7542,34
+Monk,True North,7546,12136
+Monk,Arm's Length,7548,12133
+Monk,Feint,7549,76
+Monk,Leg Sweep,7863,82
+Monk,Four-point Fury,16473,8
+Monk,Enlightenment,16474,192
+Monk,Anatman,16475,193
+Monk,Six-sided Star,16476,194
+Monk,Steel Peak,25761,64
+Monk,Thunderclap,25762,661
+Monk,Howling Fist,25763,67
+Monk,Masterful Blitz,25764,669
+Monk,Celestial Revolution,25765,672
+Monk,Riddle of Wind,25766,12034
+Monk,Shadow of the Destroyer,25767,681
+Monk,Rising Phoenix,25768,682
+Monk,Phantom Rush,25769,683
+Monk,Flint Strike,25882,671
+Dragoon,True Thrust,75,75
+Dragoon,Vorpal Thrust,78,78
+Dragoon,Life Surge,83,83
+Dragoon,Full Thrust,84,84
+Dragoon,Lance Charge,85,200
+Dragoon,Doom Spike,86,86
+Dragoon,Disembowel,87,87
+Dragoon,Chaos Thrust,88,88
+Dragoon,Piercing Talon,90,90
+Dragoon,Jump,92,92
+Dragoon,Elusive Jump,94,94
+Dragoon,Spineshatter Dive,95,95
+Dragoon,Dragonfire Dive,96,96
+Dragoon,Fang and Claw,3554,3554
+Dragoon,Geirskogul,3555,3555
+Dragoon,Wheeling Thrust,3556,3556
+Dragoon,Battle Litany,3557,3557
+Dragoon,Sonic Thrust,7397,12037
+Dragoon,Dragon Sight,7398,12038
+Dragoon,Mirage Dive,7399,12039
+Dragoon,Nastrond,7400,12040
+Dragoon,Second Wind,7541,57
+Dragoon,Bloodbath,7542,34
+Dragoon,True North,7546,12136
+Dragoon,Arm's Length,7548,12133
+Dragoon,Feint,7549,76
+Dragoon,Leg Sweep,7863,82
+Dragoon,Coerthan Torment,16477,201
+Dragoon,High Jump,16478,202
+Dragoon,Raiden Thrust,16479,203
+Dragoon,Stardiver,16480,204
+Dragoon,Draconian Fury,25770,575
+Dragoon,Heavens' Thrust,25771,576
+Dragoon,Chaotic Spring,25772,577
+Dragoon,Wyrmwind Thrust,25773,578
+Ninja,Spinning Edge,2240,2240
+Ninja,Shade Shift,2241,2241
+Ninja,Gust Slash,2242,2242
+Ninja,Hide,2245,2245
+Ninja,Assassinate,2246,2246
+Ninja,Throwing Dagger,2247,2247
+Ninja,Mug,2248,2248
+Ninja,Death Blossom,2254,2254
+Ninja,Aeolian Edge,2255,2255
+Ninja,Trick Attack,2258,2258
+Ninja,Ten,2259,2259
+Ninja,Ninjutsu,2260,2260
+Ninja,Chi,2261,2261
+Ninja,Shukuchi,2262,2262
+Ninja,Jin,2263,2263
+Ninja,Kassatsu,2264,2264
+Ninja,Fuma Shuriken,2265,8000
+Ninja,Katon,2266,8001
+Ninja,Raiton,2267,8002
+Ninja,Hyoton,2268,8003
+Ninja,Huton,2269,8004
+Ninja,Doton,2270,8005
+Ninja,Suiton,2271,8006
+Ninja,Rabbit Medium,2272,8007
+Ninja,Armor Crush,3563,3563
+Ninja,Dream Within a Dream,3566,3566
+Ninja,Hellfrog Medium,7401,12041
+Ninja,Bhavacakra,7402,12042
+Ninja,Ten Chi Jin,7403,12043
+Ninja,Second Wind,7541,57
+Ninja,Bloodbath,7542,34
+Ninja,True North,7546,12136
+Ninja,Arm's Length,7548,12133
+Ninja,Feint,7549,76
+Ninja,Leg Sweep,7863,82
+Ninja,Hakke Mujinsatsu,16488,281
+Ninja,Meisui,16489,282
+Ninja,Goka Mekkyaku,16491,284
+Ninja,Hyosho Ranryu,16492,285
+Ninja,Bunshin,16493,283
+Ninja,Spinning Edge,17413,0
+Ninja,Gust Slash,17414,0
+Ninja,Aeolian Edge,17415,0
+Ninja,Armor Crush,17417,0
+Ninja,Throwing Dagger,17418,0
+Ninja,Death Blossom,17419,0
+Ninja,Hakke Mujinsatsu,17420,0
+Ninja,Ten,18805,0
+Ninja,Chi,18806,0
+Ninja,Jin,18807,0
+Ninja,Fuma Shuriken,18873,8000
+Ninja,Fuma Shuriken,18874,8000
+Ninja,Fuma Shuriken,18875,8000
+Ninja,Katon,18876,8001
+Ninja,Raiton,18877,8002
+Ninja,Hyoton,18878,8003
+Ninja,Huton,18879,8004
+Ninja,Doton,18880,8005
+Ninja,Suiton,18881,8006
+Ninja,Phantom Kamaitachi,25774,709
+Ninja,Phantom Kamaitachi,25775,0
+Ninja,Hollow Nozuchi,25776,710
+Ninja,Forked Raiju,25777,711
+Ninja,Fleeting Raiju,25778,712
+Ninja,Huraijin,25876,703
+Ninja,Huraijin,25877,0
+Ninja,Forked Raiju,25878,0
+Ninja,Fleeting Raiju,25879,712
+Samurai,Hakaze,7477,12044
+Samurai,Jinpu,7478,12045
+Samurai,Shifu,7479,12049
+Samurai,Yukikaze,7480,12056
+Samurai,Gekko,7481,12051
+Samurai,Kasha,7482,12054
+Samurai,Fuga,7483,12050
+Samurai,Mangetsu,7484,12053
+Samurai,Oka,7485,12055
+Samurai,Enpi,7486,12048
+Samurai,Midare Setsugekka,7487,12148
+Samurai,Tenka Goken,7488,12147
+Samurai,Higanbana,7489,12146
+Samurai,Hissatsu: Shinten,7490,12063
+Samurai,Hissatsu: Kyuten,7491,12064
+Samurai,Hissatsu: Gyoten,7492,12059
+Samurai,Hissatsu: Yaten,7493,12060
+Samurai,Hissatsu: Kaiten,7494,12058
+Samurai,Hagakure,7495,12066
+Samurai,Hissatsu: Guren,7496,12067
+Samurai,Meditate,7497,12062
+Samurai,Third Eye,7498,12046
+Samurai,Meikyo Shisui,7499,12057
+Samurai,Second Wind,7541,57
+Samurai,Bloodbath,7542,34
+Samurai,True North,7546,12136
+Samurai,Arm's Length,7548,12133
+Samurai,Feint,7549,76
+Samurai,Leg Sweep,7863,82
+Samurai,Iaijutsu,7867,12052
+Samurai,Hissatsu: Senei,16481,325
+Samurai,Ikishoten,16482,324
+Samurai,Tsubame-gaeshi,16483,326
+Samurai,Kaeshi: Higanbana,16484,328
+Samurai,Kaeshi: Goken,16485,329
+Samurai,Kaeshi: Setsugekka,16486,330
+Samurai,Shoha,16487,327
+Samurai,Shoha II,25779,892
+Samurai,Fuko,25780,893
+Samurai,Ogi Namikiri,25781,894
+Samurai,Kaeshi: Namikiri,25782,895
+Reaper,Second Wind,7541,57
+Reaper,Bloodbath,7542,34
+Reaper,True North,7546,12136
+Reaper,Arm's Length,7548,12133
+Reaper,Feint,7549,76
+Reaper,Leg Sweep,7863,82
+Reaper,Slice,24373,745
+Reaper,Waxing Slice,24374,746
+Reaper,Infernal Slice,24375,752
+Reaper,Spinning Scythe,24376,751
+Reaper,Nightmare Scythe,24377,755
+Reaper,Shadow of Death,24378,747
+Reaper,Whorl of Death,24379,753
+Reaper,Soul Slice,24380,758
+Reaper,Soul Scythe,24381,759
+Reaper,Gibbet,24382,760
+Reaper,Gallows,24383,761
+Reaper,Guillotine,24384,762
+Reaper,Plentiful Harvest,24385,776
+Reaper,Harpe,24386,748
+Reaper,Soulsow,24387,772
+Reaper,Harvest Moon,24388,773
+Reaper,Blood Stalk,24389,756
+Reaper,Unveiled Gibbet,24390,763
+Reaper,Unveiled Gallows,24391,764
+Reaper,Grim Swathe,24392,757
+Reaper,Gluttony,24393,767
+Reaper,Enshroud,24394,768
+Reaper,Void Reaping,24395,769
+Reaper,Cross Reaping,24396,770
+Reaper,Grim Reaping,24397,771
+Reaper,Communio,24398,777
+Reaper,Lemure's Slice,24399,774
+Reaper,Lemure's Scythe,24400,775
+Reaper,Hell's Ingress,24401,749
+Reaper,Hell's Egress,24402,750
+Reaper,Regress,24403,766
+Reaper,Arcane Crest,24404,754
+Reaper,Arcane Circle,24405,765
+Bard,Heavy Shot,97,97
+Bard,Straight Shot,98,98
+Bard,Venomous Bite,100,100
+Bard,Raging Strikes,101,101
+Bard,Quick Nock,106,106
+Bard,Barrage,107,107
+Bard,Bloodletter,110,110
+Bard,Repelling Shot,112,112
+Bard,Windbite,113,113
+Bard,Mage's Ballad,114,114
+Bard,Army's Paeon,116,116
+Bard,Rain of Death,117,117
+Bard,Battle Voice,118,118
+Bard,Empyreal Arrow,3558,3558
+Bard,the Wanderer's Minuet,3559,3559
+Bard,Iron Jaws,3560,3560
+Bard,the Warden's Paean,3561,3561
+Bard,Sidewinder,3562,3562
+Bard,Pitch Perfect,7404,12068
+Bard,Troubadour,7405,12069
+Bard,Caustic Bite,7406,100
+Bard,Stormbite,7407,113
+Bard,Nature's Minne,7408,12072
+Bard,Refulgent Arrow,7409,12073
+Bard,Second Wind,7541,57
+Bard,Arm's Length,7548,12133
+Bard,Head Graze,7551,2886
+Bard,Foot Graze,7553,2884
+Bard,Leg Graze,7554,82
+Bard,Peloton,7557,12137
+Bard,Shadowbite,16494,205
+Bard,Burst Shot,16495,97
+Bard,Apex Arrow,16496,207
+Bard,Ladonsbite,25783,460
+Bard,Blast Arrow,25784,461
+Bard,Radiant Finale,25785,462
+Machinist,Rook Autoturret,2864,2864
+Machinist,Split Shot,2866,2866
+Machinist,Slug Shot,2868,2868
+Machinist,Spread Shot,2870,2870
+Machinist,Hot Shot,2872,2872
+Machinist,Clean Shot,2873,2873
+Machinist,Gauss Round,2874,2874
+Machinist,Reassemble,2876,2876
+Machinist,Wildfire,2878,2878
+Machinist,Ricochet,2890,2890
+Machinist,Heat Blast,7410,286
+Machinist,Heated Split Shot,7411,12080
+Machinist,Heated Slug Shot,7412,12081
+Machinist,Heated Clean Shot,7413,12082
+Machinist,Barrel Stabilizer,7414,12076
+Machinist,Rook Overdrive,7415,12077
+Machinist,Rook Overload,7416,12083
+Machinist,Flamethrower,7418,12079
+Machinist,Second Wind,7541,57
+Machinist,Arm's Length,7548,12133
+Machinist,Head Graze,7551,2886
+Machinist,Foot Graze,7553,2884
+Machinist,Leg Graze,7554,2877
+Machinist,Peloton,7557,12137
+Machinist,Auto Crossbow,16497,301
+Machinist,Drill,16498,302
+Machinist,Bioblaster,16499,303
+Machinist,Air Anchor,16500,304
+Machinist,Automaton Queen,16501,305
+Machinist,Queen Overdrive,16502,306
+Machinist,Pile Bunker,16503,309
+Machinist,Arm Punch,16504,307
+Machinist,Detonator,16766,287
+Machinist,Tactician,16889,12138
+Machinist,Roller Dash,17206,308
+Machinist,Hypercharge,17209,2885
+Machinist,Scattergun,25786,649
+Machinist,Crowned Collider,25787,650
+Machinist,Chain Saw,25788,651
+Dancer,Second Wind,7541,57
+Dancer,Arm's Length,7548,12133
+Dancer,Head Graze,7551,2886
+Dancer,Foot Graze,7553,2884
+Dancer,Leg Graze,7554,2877
+Dancer,Peloton,7557,12137
+Dancer,Cascade,15989,366
+Dancer,Fountain,15990,367
+Dancer,Reverse Cascade,15991,371
+Dancer,Fountainfall,15992,375
+Dancer,Windmill,15993,368
+Dancer,Bladeshower,15994,372
+Dancer,Rising Windmill,15995,374
+Dancer,Bloodshower,15996,376
+Dancer,Standard Step,15997,369
+Dancer,Technical Step,15998,385
+Dancer,Emboite,15999,390
+Dancer,Entrechat,16000,391
+Dancer,Jete,16001,392
+Dancer,Pirouette,16002,393
+Dancer,Standard Finish,16003,370
+Dancer,Technical Finish,16004,386
+Dancer,Saber Dance,16005,388
+Dancer,Closed Position,16006,381
+Dancer,Fan Dance,16007,373
+Dancer,Fan Dance II,16008,377
+Dancer,Fan Dance III,16009,384
+Dancer,En Avant,16010,378
+Dancer,Devilment,16011,383
+Dancer,Shield Samba,16012,380
+Dancer,Flourish,16013,387
+Dancer,Improvisation,16014,389
+Dancer,Curing Waltz,16015,379
+Dancer,Single Standard Finish,16191,370
+Dancer,Double Standard Finish,16192,370
+Dancer,Single Technical Finish,16193,386
+Dancer,Double Technical Finish,16194,386
+Dancer,Triple Technical Finish,16195,386
+Dancer,Quadruple Technical Finish,16196,386
+Dancer,Ending,18073,382
+Dancer,Improvised Finish,25789,518
+Dancer,Tillana,25790,519
+Dancer,Fan Dance IV,25791,520
+Dancer,Starfall Dance,25792,521
+Black Mage,Fire,141,141
+Black Mage,Blizzard,142,142
+Black Mage,Thunder,144,144
+Black Mage,Fire II,147,147
+Black Mage,Transpose,149,149
+Black Mage,Fire III,152,152
+Black Mage,Thunder III,153,153
+Black Mage,Blizzard III,154,154
+Black Mage,Aetherial Manipulation,155,155
+Black Mage,Scathe,156,156
+Black Mage,Manaward,157,157
+Black Mage,Manafont,158,246
+Black Mage,Freeze,159,159
+Black Mage,Flare,162,162
+Black Mage,Ley Lines,3573,3573
+Black Mage,Sharpcast,3574,3574
+Black Mage,Blizzard IV,3576,3576
+Black Mage,Fire IV,3577,3577
+Black Mage,Between the Lines,7419,12085
+Black Mage,Thunder IV,7420,12086
+Black Mage,Triplecast,7421,12087
+Black Mage,Foul,7422,12088
+Black Mage,Thunder II,7447,148
+Black Mage,Surecast,7559,143
+Black Mage,Addle,7560,12142
+Black Mage,Swiftcast,7561,150
+Black Mage,Lucid Dreaming,7562,12130
+Black Mage,Despair,16505,247
+Black Mage,Umbral Soul,16506,248
+Black Mage,Xenoglossy,16507,249
+Black Mage,Blizzard II,25793,146
+Black Mage,High Fire II,25794,490
+Black Mage,High Blizzard II,25795,491
+Black Mage,Amplifier,25796,492
+Black Mage,Paradox,25797,493
+Black Mage,Sleep,25880,145
+Summoner,Ruin,163,163
+Summoner,Ruin II,172,172
+Summoner,Resurrection,173,173
+Summoner,Fester,181,181
+Summoner,Painflare,3578,3578
+Summoner,Ruin III,3579,3579
+Summoner,Dreadwyrm Trance,3581,3581
+Summoner,Deathflare,3582,3582
+Summoner,Ruin IV,7426,12089
+Summoner,Summon Bahamut,7427,12093
+Summoner,Wyrmwave,7428,12094
+Summoner,Enkindle Bahamut,7429,12095
+Summoner,Akh Morn,7449,12096
+Summoner,Surecast,7559,143
+Summoner,Addle,7560,12142
+Summoner,Swiftcast,7561,150
+Summoner,Lucid Dreaming,7562,12130
+Summoner,Physick,16230,190
+Summoner,Energy Drain,16508,167
+Summoner,Energy Siphon,16510,251
+Summoner,Outburst,16511,252
+Summoner,Fountain of Fire,16514,255
+Summoner,Brand of Purgatory,16515,256
+Summoner,Enkindle Phoenix,16516,257
+Summoner,Everlasting Flight,16517,258
+Summoner,Revelation,16518,260
+Summoner,Scarlet Flame,16519,259
+Summoner,Summon Carbuncle,25798,934
+Summoner,Radiant Aegis,25799,935
+Summoner,Aethercharge,25800,937
+Summoner,Searing Light,25801,972
+Summoner,Summon Ruby,25802,938
+Summoner,Summon Topaz,25803,944
+Summoner,Summon Emerald,25804,946
+Summoner,Summon Ifrit,25805,954
+Summoner,Summon Titan,25806,958
+Summoner,Summon Garuda,25807,960
+Summoner,Ruby Ruin,25808,940
+Summoner,Topaz Ruin,25809,945
+Summoner,Emerald Ruin,25810,947
+Summoner,Ruby Ruin II,25811,955
+Summoner,Topaz Ruin II,25812,956
+Summoner,Emerald Ruin II,25813,957
+Summoner,Ruby Outburst,25814,950
+Summoner,Topaz Outburst,25815,951
+Summoner,Emerald Outburst,25816,952
+Summoner,Ruby Ruin III,25817,963
+Summoner,Topaz Ruin III,25818,964
+Summoner,Emerald Ruin III,25819,965
+Summoner,Astral Impulse,25820,967
+Summoner,Astral Flare,25821,968
+Summoner,Astral Flow,25822,969
+Summoner,Ruby Rite,25823,977
+Summoner,Topaz Rite,25824,978
+Summoner,Emerald Rite,25825,979
+Summoner,Tri-disaster,25826,3580
+Summoner,Ruby Disaster,25827,981
+Summoner,Topaz Disaster,25828,982
+Summoner,Emerald Disaster,25829,983
+Summoner,Rekindle,25830,988
+Summoner,Summon Phoenix,25831,986
+Summoner,Ruby Catastrophe,25832,992
+Summoner,Topaz Catastrophe,25833,993
+Summoner,Emerald Catastrophe,25834,994
+Summoner,Crimson Cyclone,25835,797
+Summoner,Mountain Buster,25836,788
+Summoner,Slipstream,25837,263
+Summoner,Summon Ifrit II,25838,999
+Summoner,Summon Titan II,25839,1000
+Summoner,Summon Garuda II,25840,1001
+Summoner,Radiant Aegis,25841,935
+Summoner,Searing Light,25842,972
+Summoner,Glittering Ruby,25843,0
+Summoner,Glittering Topaz,25844,0
+Summoner,Glittering Emerald,25845,0
+Summoner,Burning Strike,25846,798
+Summoner,Rock Buster,25847,787
+Summoner,Aerial Slash,25848,794
+Summoner,Inferno,25849,801
+Summoner,Earthen Fury,25850,791
+Summoner,Aerial Blast,25851,796
+Summoner,Inferno,25852,801
+Summoner,Earthen Fury,25853,791
+Summoner,Aerial Blast,25854,796
+Summoner,Sleep,25880,145
+Summoner,Gemshine,25883,939
+Summoner,Precious Brilliance,25884,949
+Summoner,Crimson Strike,25885,996
+Red Mage,Jolt,7503,12098
+Red Mage,Riposte,7504,12097
+Red Mage,Verthunder,7505,12099
+Red Mage,Corps-a-corps,7506,12100
+Red Mage,Veraero,7507,12101
+Red Mage,Scatter,7509,12103
+Red Mage,Verfire,7510,12104
+Red Mage,Verstone,7511,12105
+Red Mage,Zwerchhau,7512,12106
+Red Mage,Moulinet,7513,12111
+Red Mage,Vercure,7514,12112
+Red Mage,Displacement,7515,12107
+Red Mage,Redoublement,7516,12109
+Red Mage,Fleche,7517,12108
+Red Mage,Acceleration,7518,12110
+Red Mage,Contre Sixte,7519,12113
+Red Mage,Embolden,7520,12114
+Red Mage,Manafication,7521,12115
+Red Mage,Verraise,7523,12117
+Red Mage,Jolt II,7524,12116
+Red Mage,Verflare,7525,12119
+Red Mage,Verholy,7526,12120
+Red Mage,Enchanted Riposte,7527,12121
+Red Mage,Enchanted Zwerchhau,7528,12122
+Red Mage,Enchanted Redoublement,7529,12123
+Red Mage,Enchanted Moulinet,7530,12124
+Red Mage,Surecast,7559,143
+Red Mage,Addle,7560,12142
+Red Mage,Swiftcast,7561,150
+Red Mage,Lucid Dreaming,7562,12130
+Red Mage,Verthunder II,16524,331
+Red Mage,Veraero II,16525,332
+Red Mage,Impact,16526,12118
+Red Mage,Engagement,16527,333
+Red Mage,Enchanted Reprise,16528,336
+Red Mage,Reprise,16529,334
+Red Mage,Scorch,16530,335
+Red Mage,Verthunder III,25855,822
+Red Mage,Veraero III,25856,823
+Red Mage,Magick Barrier,25857,824
+Red Mage,Resolution,25858,825
+Red Mage,Sleep,25880,145

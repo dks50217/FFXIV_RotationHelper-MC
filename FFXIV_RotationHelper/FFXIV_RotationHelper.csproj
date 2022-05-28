@@ -57,9 +57,8 @@
     <AutoGenerateBindingRedirects>false</AutoGenerateBindingRedirects>
   </PropertyGroup>
   <ItemGroup>
-    <Reference Include="Advanced Combat Tracker">
-      <HintPath>..\..\..\..\Advanced Combat Tracker\Advanced Combat Tracker.exe</HintPath>
-      <Private>False</Private>
+    <Reference Include="Advanced Combat Tracker, Version=3.6.0.275, Culture=neutral, PublicKeyToken=a946b61e93d97868, processorArchitecture=MSIL">
+      <HintPath>..\packages\AdvancedCombatTracker.3.6.0.275\lib\net45\Advanced Combat Tracker.exe</HintPath>
     </Reference>
     <Reference Include="Costura, Version=3.3.3.0, Culture=neutral, PublicKeyToken=9919ef960d84173d, processorArchitecture=MSIL">
       <HintPath>..\packages\Costura.Fody.3.3.3\lib\net40\Costura.dll</HintPath>
